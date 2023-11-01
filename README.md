@@ -1,4 +1,5 @@
-<h2 align="center">What is real?<br><br><br>Developer of a spiral galaxy<br><br><br>Who am I?<br><br><br>I am a temporal being, living in a "programmed" universe, in a small remnant of time, just trying to conquer my endorphin, dopamine, serotonin and oxytocin.</h2><br><br><br><br><br>
+<h2 align="center">What is real?<br><br><br>Developer of a spiral galaxy<br><br><br>Who am I?<br><br><br>
+I am a temporal being, forged in the burning heart of a star that no longer exists. Living in an infinite cosmos, in a small remnant of time, which seeks to understand the meaning of our ephemeral existence, like a restless traveler in the vast ocean of knowledge.</h2><br><br><br><br><br>
 
 
 ## 🌐 Socials:
