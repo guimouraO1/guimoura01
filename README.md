@@ -2,12 +2,6 @@
 I am a temporal being, forged in the burning heart of a star that no longer exists. Living in an infinite cosmos, in a small remnant of time, which seeks to understand the meaning of our ephemeral existence, like a restless traveler in the vast ocean of knowledge.</h2><br><br><br><br><br>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guimouraO1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guimouraO1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=guimouraO1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <div align="center">
@@ -28,5 +22,9 @@ I am a temporal being, forged in the burning heart of a star that no longer exis
 
 ###
 ---
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guimouraO1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guimouraO1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=guimouraO1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
